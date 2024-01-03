@@ -49,6 +49,6 @@ console.log(`O Herói de nome ${nomeHeroi} está no nível de ${rankHeroi}`);
 
 
 // git add.
-// git commit "Descrição"
+// git commit -m "Descrição"
 // git push -u origin main
 
